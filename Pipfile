@@ -11,6 +11,7 @@ flask-sqlalchemy = "*"
 py-openaq = "*"
 requests = "*"
 python-dateutil = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"

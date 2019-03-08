@@ -1,0 +1,1 @@
+web: gunicorn sprint4:APP -t 120
